@@ -1,0 +1,19 @@
+body {
+    background-color: cornsilk;
+    text-align: center;
+}
+
+table {width: 40%;}
+
+table, th {border: black solid 1px;}
+
+.center {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+th {
+    background-color: cornflowerblue;
+}
+
+h3 {color: cornflowerblue;}
